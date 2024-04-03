@@ -1,0 +1,4 @@
+- Hi, I’m @es-child
+- I'm a year 12 student in the UK taking A Level Computer Science
+- I’m interested in software engineering/development
+- I’m currently learning machine learning with python
